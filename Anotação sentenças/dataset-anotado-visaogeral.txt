@@ -1,0 +1,15 @@
+Consistência: As frases estão classificadas em três sentimentos (Positivo, Negativo, Neutro), com consistência nas anotações. Cuidado com ambiguidade de termos precisa ser garantido.
+
+Variedade: Há uma variedade de construções das frases e emoções elencadas.
+
+Representatividade: O dataset é representativo para o estudo de gênero.
+
+Documentação
+Texto de origem: As sentenças foram extraídas de músicas brasileiras, utilizando o método descrito no trabalho "A Caracterização de Mulheres na Música Brasileira: Identificando Padrões com Processamento de Linguagem Natural".
+Diretrizes de anotação:
+Positivo: Sentenças que expressam qualidades favoráveis, elogios ou sentimentos de apreciação.
+Negativo: Sentenças que transmitem desdém, críticas ou percepções depreciativas.
+Neutro: Sentenças descritivas que não expressam julgamento de valor ou emoções claras.
+Quem realizou a classificação: Jovem de 22 anos, estudante universitária e autora do artigo.
+
+Tamanho: Cada arquivo contém 1.999 exemplos, o que é um número robusto para treinamentos e análises de modelos de aprendizado de máquina
