@@ -1,0 +1,1000 @@
+Adjetivo,Frequência,Categoria
+bonita,852,Aparência
+linda,794,Aparência
+louca,263,Caráter
+novinha,207,Aparência
+gostosa,183,Aparência
+boa,159,Caráter
+feia,153,Aparência
+feliz,145,Emoção
+dona,123,Papel social
+mãe,110,Papel social
+bela,106,Aparência
+sozinha,96,Emoção
+nova,94,Aparência
+cheia,90,Aparência
+flor,80,Aparência
+top,75,Aparência
+igual,73,Neutro
+diferente,73,Caráter
+casada,72,Papel social
+feita,68,Neutro
+luz,66,Neutro
+triste,65,Emoção
+maravilhosa,63,Aparência
+morena,63,Aparência
+solteira,62,Papel social
+brasileira,60,Papel social
+maluca,60,Caráter
+doida,56,Caráter
+gata,54,Aparência
+pura,52,Caráter
+rica,52,Papel social
+bandida,51,Caráter
+criança,47,Papel social
+beleza,44,Aparência
+preta,44,Aparência
+mamãe,43,Papel social
+branca,43,Aparência
+perfeita,41,Aparência
+capaz,40,Caráter
+namoradeira,38,Caráter
+bonitinha,37,Aparência
+filha,37,Papel social
+princesa,36,Papel social
+quente,36,Neutro
+estrela,35,Neutro
+negra,35,Aparência
+vida,35,Neutro
+amor,34,Emoção
+ingrata,34,Caráter
+foda,33,Caráter
+ciumenta,33,Caráter
+má,33,Emoção
+esperta,33,Caráter
+carinhosa,32,Emoção
+inocente,32,Caráter
+carente,32,Emoção
+presente,32,Neutro
+bacana,32,Caráter
+doce,31,Emoção
+braba,31,Emoção
+faceira,31,Emoção
+cheirosa,30,Aparência
+forte,30,Aparência
+fiel,30,Caráter
+sensual,30,Aparência
+guerreira,30,Caráter
+divina,28,Aparência
+tentação,27,Aparência
+culpada,27,Emoção
+nervosa,27,Emoção
+escura,26,Aparência
+musa,26,Aparência
+segura,26,Caráter
+carioca,25,Papel social
+paixão,25,Emoção
+rebola,24,Aparência
+baiana,23,Papel social
+morta,23,Neutro
+sincera,23,Caráter
+madura,23,Caráter
+grande,23,Aparência
+independente,23,Caráter
+dengosa,23,Emoção
+amiga,22,Papel social
+nua,22,Aparência
+pobre,22,Papel social
+livre,21,Neutro
+falsa,21,Caráter
+fatal,21,Caráter
+doente,21,Neutro
+ilusão,21,Emoção
+errada,21,Caráter
+apaixonada,21,Emoção
+difícil,20,Caráter
+teimosa,20,Emoção
+doidinha,20,Caráter
+envolvente,20,Aparência
+direita,20,Caráter
+viva,20,Neutro
+perigosa,19,Caráter
+presa,19,Papel social
+sensacional,19,Caráter
+alegria,19,Emoção
+safada,19,Sexual
+inteligente,18,Caráter
+soltinha,18,Emoção
+saudade,18,Emoção
+formosa,18,Aparência
+virgem,17,Sexual
+comprometida,17,Papel social
+paz,17,Emoção
+clara,17,Aparência
+meiga,17,Emoção
+amante,17,Papel social
+prosa,17,Neutro
+pequena,17,Aparência
+preciso,17,Neutro
+ligada,16,Neutro
+sexy,16,Aparência
+lua,16,Neutro
+fogosa,16,Sexual
+coroa,16,Aparência
+velha,16,Aparência
+maldosa,16,Caráter
+chata,16,Caráter
+tristeza,16,Emoção
+puta,16,Sexual
+firmeza,15,Caráter
+maior,15,Neutro
+estranha,15,Aparência
+galera,15,Neutro
+ruim,15,Caráter
+moderna,15,Neutro
+poderosa,15,Caráter
+baladeira,14,Caráter
+charmosa,14,Aparência
+viúva,14,Papel social
+ideal,14,Neutro
+distante,14,Caráter
+moreninha,14,Aparência
+fruta,14,Neutro
+delicada,14,Caráter
+companheira,14,Caráter
+alheia,14,Caráter
+cruel,14,Caráter
+atriz,13,Papel social
+comum,13,Neutro
+coração,13,Emoção
+sereia,13,Aparência
+enganada,13,Caráter
+contente,13,Emoção
+safadinha,13,Sexual
+melhor,13,Neutro
+fácil,13,Caráter
+vaidosa,13,Caráter
+natureza,12,Neutro
+fria,12,Emoção
+nobre,12,Caráter
+séria,12,Caráter
+rara,12,Caráter
+loira,12,Aparência
+querida,12,Emoção
+infeliz,12,Emoção
+seca,12,Neutro
+caprichosa,12,Caráter
+danada,12,Caráter
+deusa,12,Aparência
+carpideira,12,Papel social
+santa,12,Caráter
+chique,11,Aparência
+maravilha,11,Aparência
+doidona,11,Caráter
+cura,11,Neutro
+indecente,11,Caráter
+atrevida,11,Caráter
+verdadeira,11,Caráter
+arrependida,11,Emoção
+única,11,Neutro
+patricinha,11,Papel social
+amada,11,Emoção
+mocinha,11,Aparência
+experiente,11,Caráter
+gorda,10,Aparência
+legal,10,Caráter
+pequenina,10,Aparência
+real,10,Caráter
+sinhá,10,Papel social
+sapeca,10,Sexual
+cansada,10,Emoção
+baixinha,10,Aparência
+felicidade,10,Emoção
+elegante,10,Aparência
+perdida,10,Caráter
+irmã,10,Papel social
+desconfiada,10,Emoção
+interesseira,9,Caráter
+solidão,9,Emoção
+impossível,9,Caráter
+rendeira,9,Papel social
+simples,9,Caráter
+funkeira,9,Caráter
+fera,9,Caráter
+aflita,9,Emoção
+boneca,9,Aparência
+zika,9,Aparência
+fantasia,9,Neutro
+terrível,9,Caráter
+decente,9,Caráter
+corpo,9,Aparência
+especial,9,Caráter
+problema,9,Emoção
+colorida,8,Aparência
+sorte,8,Emoção
+primeira,8,Neutro
+importante,8,Caráter
+sentimento,8,Emoção
+gamada,8,Emoção
+suja,8,Aparência
+normal,8,Neutro
+atraente,8,Aparência
+saudosa,8,Emoção
+selvagem,8,Caráter
+zangada,8,Emoção
+goiana,8,Papel social
+acostumada,8,Caráter
+fofinha,8,Emoção
+animadinha,8,Emoção
+jovem,8,Aparência
+leviana,8,Caráter
+profissional,8,Papel social
+incrível,8,Emoção
+loka,8,Caráter
+alta,8,Aparência
+magra,8,Aparência
+mimosa,8,Emoção
+simpática,8,Emoção
+liberdade,8,Emoção
+preciosa,8,Emoção
+prima,7,Papel social
+menininha,7,Papel social
+vulgar,7,Caráter
+vazia,7,Emoção
+vovó,7,Papel social
+jóia,7,Neutro
+quietinha,7,Emoção
+modelo,7,Papel social
+traiçoeira,7,Caráter
+marrenta,7,Caráter
+acompanhada,7,Papel social
+pirada,7,Caráter
+parceira,7,Caráter
+boba,7,Caráter
+magoada,7,Emoção
+confusa,7,Emoção
+boazinha,7,Emoção
+manhosa,7,Emoção
+saliente,7,Emoção
+santinha,7,Caráter
+insana,7,Emoção
+desprezada,7,Emoção
+véia,7,Aparência
+gordinha,7,Aparência
+pronta,7,Neutro
+estilo,7,Aparência
+chapada,7,Aparência
+bolada,7,Emoção
+terrorista,7,Caráter
+preparada,7,Emoção
+calma,7,Emoção
+fulgaz,7,Emoção
+assanhada,7,Sexual
+descontrolada,7,Emoção
+sensação,6,Emoção
+decidida,6,Caráter
+completa,6,Neutro
+infiel,6,Caráter
+fascinante,6,Emoção
+mãezinha,6,Papel social
+sorriso,6,Aparência
+mandona,6,Emoção
+feiticeira,6,Caráter
+malvada,6,Caráter
+calada,6,Emoção
+feminina,6,Aparência
+solteirona,6,Papel social
+insatisfeita,6,Emoção
+atração,6,Emoção
+ferida,6,Neutro
+assanhadinha,6,Sexual
+ausente,6,Caráter
+interessante,6,Emoção
+tarada,6,Sexual
+cachorra,6,Caráter
+sentimental,6,Emoção
+deprimida,6,Emoção
+rebelde,6,Caráter
+complicada,6,Caráter
+sagaz,6,Caráter
+tranquila,6,Caráter
+cigana,6,Papel social
+danadinha,6,Sexual
+cega,6,Neutro
+frágil,5,Emoção
+valente,5,Caráter
+resolvida,5,Emoção
+mole,5,Emoção
+imensa,5,Aparência
+necessária,5,Caráter
+engraçada,5,Caráter
+burra,5,Caráter
+brilhante,5,Emoção
+caliente,5,Aparência
+fogo,5,Neutro
+estressada,5,Emoção
+cobiçada,5,Emoção
+ligeira,5,Caráter
+gentil,5,Caráter
+grávida,5,Papel social
+estéril,5,Aparência
+original,5,Neutro
+macia,5,Aparência
+mudada,5,Neutro
+durona,5,Caráter
+virtuosa,5,Caráter
+pior,5,Caráter
+gelada,5,Emoção
+brejeira,5,Papel social
+suada,5,Aparência
+aventureira,5,Caráter
+encontrada,5,Neutro
+nacional,5,Papel social
+acabada,5,Emoção
+pobrezinha,5,Caráter
+viciada,5,Caráter
+madame,5,Papel social
+bamba,5,Neutro
+professora,5,Papel social
+prostituta,5,Sexual
+absoluta,5,Caráter
+mineira,5,Papel social
+cabocla,5,Papel social
+bailarina,5,Papel social
+disposta,5,Emoção
+eterna,5,Neutro
+formada,5,Papel social
+inacreditável,5,Emoção
+orgulhosa,5,Emoção
+noiva,5,Papel social
+venenosa,5,Caráter
+discreta,5,Caráter
+taradinha,5,Sexual
+bipolar,5,Caráter
+preferida,5,Neutro
+tenebrosa,5,Emoção
+violenta,5,Caráter
+destemida,5,Emoção
+alegre,5,Emoção
+esquisita,5,Caráter
+insegura,5,Emoção
+traída,5,Emoção
+tia,5,Papel social
+espetacular,5,Aparência
+mercenária,5,Caráter
+dividida,5,Caráter
+tirana,5,Caráter
+singela,5,Emoção
+judia,5,Papel social
+gatinha,5,Aparência
+natural,5,Neutro
+suave,5,Emoção
+estilosa,5,Aparência
+felina,5,Neutro
+dependente,4,Caráter
+famosa,4,Papel social
+ofegante,4,Emoção
+encantada,4,Emoção
+tímida,4,Emoção
+confiante,4,Emoção
+mimada,4,Emoção
+ternura,4,Emoção
+forçada,4,Neutro
+cismada,4,Emoção
+milagrosa,4,Emoção
+descente,4,Caráter
+passageira,4,Caráter
+pretinha,4,Aparência
+louquinha,4,Caráter
+vistosa,4,Aparência
+covardia,4,Emoção
+medonha,4,Aparência
+sertaneja,4,Papel social
+soberana,4,Caráter
+raridade,4,Caráter
+cabulosa,4,Caráter
+sentida,4,Emoção
+potente,4,Emoção
+sequestrada,4,Neutro
+popular,4,Papel social
+bagunceira,4,Caráter
+aposentada,4,Papel social
+doideira,4,Emoção
+atenta,4,Caráter
+malandra,4,Caráter
+matogrossense,4,Papel social
+diferenciada,4,Caráter
+gulosa,4,Emoção
+forrozeira,4,Neutro
+abusada,4,Emoção
+fraca,4,Aparência
+vadia,4,Sexual
+tranqueira,4,Caráter
+quieta,4,Caráter
+ardente,4,Neutro
+gerada,4,Neutro
+indefesa,4,Emoção
+litorânea,4,Neutro
+expansiva,4,Caráter
+contemporânea,4,Neutro
+espontânea,4,Emoção
+loucona,4,Caráter
+distraída,4,Emoção
+milionária,4,Papel social
+fina,4,Aparência
+americana,4,Papel social
+perdição,4,Emoção
+escandalosa,4,Emoção
+encantadora,4,Caráter
+fã,4,Emoção
+surda,4,Neutro
+furacão,4,Caráter
+covarde,4,Emoção
+moleca,4,Caráter
+firme,4,Neutro
+fingida,4,Caráter
+loucura,4,Emoção
+molhada,4,Aparência
+piriguete,4,Sexual
+mentira,4,Caráter
+pelada,4,Aparência
+magrinha,4,Aparência
+dona-de-casa,4,Papel social
+aborrecida,3,Emoção
+leoa,3,Neutro
+satisfação,3,Emoção
+delícia,3,Aparência
+indigesta,3,Emoção
+rampeira,3,Caráter
+pecadora,3,Caráter
+acordada,3,Neutro
+miudinha,3,Aparência
+astral,3,Emoção
+bonequeira,3,Neutro
+grudada,3,Emoção
+costureira,3,Papel social
+gestante,3,Papel social
+padrão,3,Aparência
+fenomenal,3,Aparência
+torta,3,Aparência
+sacana,3,Caráter
+babá,3,Papel social
+descalça,3,Aparência
+sapequinha,3,Sexual
+nutella,3,Neutro
+roqueira,3,Neutro
+contemplada,3,Neutro
+chapa-quente,3,Emoção
+imunda,3,Aparência
+surreal,3,Caráter
+crescida,3,Aparência
+proibida,3,Neutro
+provocante,3,Emoção
+pureza,3,Emoção
+desumana,3,Caráter
+orgulho,3,Emoção
+galinha,3,Caráter
+desenhada,3,Neutro
+radical,3,Caráter
+protegida,3,Emoção
+limpa,3,Aparência
+excitante,3,Emoção
+despejada,3,Neutro
+ensinada,3,Neutro
+vilã,3,Caráter
+zen,3,Caráter
+genial,3,Emoção
+sexo,3,Sexual
+fanática,3,Emoção
+influenciada,3,Caráter
+levada,3,Caráter
+filhinha,3,Papel social
+dahora,3,Caráter
+sedutora,3,Caráter
+boiadeira,3,Papel social
+pensativa,3,Emoção
+tonta,3,Emoção
+apertada,3,Sexual
+tola,3,Caráter
+sutil,3,Emoção
+magrela,3,Aparência
+baixa,3,Aparência
+recalcada,3,Caráter
+franzina,3,Aparência
+xucra,3,Caráter
+atuante,3,Neutro
+gostosinha,3,Aparência
+humana,3,Neutro
+turbinada,3,Aparência
+armada,3,Neutro
+indecisa,3,Emoção
+criada,3,Neutro
+garotinha,3,Papel social
+carregada,3,Caráter
+pantera,3,Neutro
+debochada,3,Emoção
+insaciável,3,Emoção
+faladeira,3,Caráter
+bruxinha,3,Papel social
+metida,3,Caráter
+piranha,3,Sexual
+misteriosa,3,Emoção
+substituta,3,Emoção
+perversa,3,Caráter
+boladona,3,Emoção
+obrigada,3,Emoção
+esquecida,3,Neutro
+camponesa,3,Papel social
+amazonense,3,Papel social
+sapatão,3,Sexual
+felizes,3,Emoção
+burguesinha,3,Caráter
+brincalhona,3,Emoção
+briguenta,3,Emoção
+machista,3,Caráter
+majestade,2,Papel social
+loirinha,2,Aparência
+motorista,2,Papel social
+chateada,2,Emoção
+imponente,2,Aparência
+delegada,2,Papel social
+malucona,2,Caráter
+empolgada,2,Emoção
+preguiçosa,2,Emoção
+namorista,2,Emoção
+bunduda,2,Aparência
+veterana,2,Papel social
+lavadeira,2,Papel social
+certa,2,Neutro
+vaca,2,Neutro
+diva,2,Aparência
+luxuosa,2,Aparência
+generosa,2,Caráter
+esnobe,2,Caráter
+enfermeira,2,Papel social
+suicida,2,Emoção
+sóbria,2,Caráter
+gêmeas,2,Neutro
+graciosa,2,Aparência
+patroa,2,Papel social
+tranzeira,2,Sexual
+dedicada,2,Caráter
+imperfeita,2,Emoção
+digna,2,Caráter
+justa,2,Caráter
+descuidada,2,Caráter
+ambiciosa,2,Caráter
+sorridente,2,Emoção
+molhadinha,2,Sexual
+invejosa,2,Caráter
+vacilona,2,Caráter
+maioral,2,Neutro
+certeira,2,Caráter
+enrolada,2,Emoção
+cínica,2,Caráter
+lacradora,2,Caráter
+chapadona,2,Caráter
+sofisticada,2,Aparência
+pressente,2,Emoção
+barata,2,Neutro
+iguaizinhas,2,Neutro
+chocada,2,Emoção
+avó,2,Papel social
+sirigaita,2,Sexual
+charme,2,Emoção
+fada,2,Neutro
+sofredora,2,Emoção
+caipira,2,Papel social
+romântica,2,Caráter
+idealista,2,Caráter
+mulata,2,Aparência
+bisa,2,Papel social
+dançarina,2,Papel social
+putinha,2,Sexual
+careta,2,Caráter
+corajosa,2,Caráter
+ninfeta,2,Sexual
+putaria,2,Sexual
+diferentona,2,Caráter
+fútil,2,Caráter
+neurótica,2,Emoção
+impressionada,2,Emoção
+conhecida,2,Caráter
+gigante,2,Aparência
+sedenta,2,Emoção
+engraçadinha,2,Emoção
+boçal,2,Caráter
+envolvida,2,Emoção
+chic,2,Aparência
+magnética,2,Emoção
+arrochadinha,2,Aparência
+protetora,2,Caráter
+fechada,2,Caráter
+ciente,2,Caráter
+vestida,2,Aparência
+serena,2,Caráter
+ruaceira,2,Caráter
+útil,2,Emoção
+mainha,2,Papel social
+deslumbrante,2,Aparência
+rodada,2,Sexual
+jeitosa,2,Aparência
+manequim,2,Aparência
+beijoqueira,2,Caráter
+treme-treme,2,Neutro
+treinada,2,Aparência
+divertida,2,Caráter
+virtuosas,2,Caráter
+batalhadora,2,Caráter
+ingênua,2,Caráter
+mentirosa,2,Caráter
+fabulosa,2,Emoção
+liberada,2,Neutro
+explosiva,2,Caráter
+exuberante,2,Aparência
+juventude,2,Aparência
+montada,2,Aparência
+multicolor,2,Neutro
+abusiva,2,Caráter
+estudante,2,Papel social
+honesta,2,Caráter
+admirada,2,Emoção
+anarquista,2,Caráter
+cinéfila,2,Papel social
+enfezada,2,Emoção
+caolha,2,Aparência
+fashion,2,Aparência
+fantasiada,2,Aparência
+pistoleira,2,Caráter
+cachaceira,2,Caráter
+vagaba,2,Sexual
+atoa,2,Caráter
+populosa,2,Caráter
+exigente,2,Caráter
+convidada,2,Papel social
+assassina,2,Caráter
+otária,2,Caráter
+estrangeira,2,Papel social
+espanto,2,Emoção
+tristonha,2,Emoção
+ruiva,2,Aparência
+errante,2,Caráter
+desesperada,2,Emoção
+assadinha,2,Aparência
+caçadora,2,Papel social
+maluquinha,2,Caráter
+bondade,2,Emoção
+irresistível,2,Emoção
+amorosa,2,Emoção
+volúvel,2,Caráter
+iluminada,2,Emoção
+silicone,2,Aparência
+condessa,2,Papel social
+campeã,2,Papel social
+dispersa,2,Emoção
+amarga,2,Emoção
+fofa,2,Emoção
+arrumadinha,2,Aparência
+japonesa,2,Papel social
+audaz,2,Emoção
+ativa,2,Neutro
+deliciosa,2,Aparência
+educada,2,Caráter
+divinal,2,Neutro
+inferior,2,Emoção
+compreendida,2,Emoção
+sedução,2,Emoção
+sarada,2,Aparência
+encrenqueira,2,Caráter
+possessiva,2,Emoção
+baranga,2,Aparência
+franca,2,Caráter
+mal-amada,2,Emoção
+barriguda,2,Aparência
+miss,2,Papel social
+tensa,2,Emoção
+ferrada,2,Emoção
+depressiva,2,Emoção
+correta,1,Caráter
+lunática,1,Emoção
+curvas,1,Aparência
+súbita,1,Emoção
+emotiva,1,Emoção
+brusca,1,Caráter
+broxante,1,Sexual
+gamadinha,1,Emoção
+geme,1,Sexual
+árdua,1,Emoção
+horrível,1,Caráter
+enloquece,1,Emoção
+zoeira,1,Emoção
+desvalorizada,1,Emoção
+deturpada,1,Caráter
+antipática,1,Caráter
+virtude,1,Caráter
+fértil,1,Aparência
+gaúcha,1,Papel social
+governanta,1,Papel social
+sossegada,1,Emoção
+glamurosa,1,Aparência
+dura,1,Caráter
+caguetagem,1,Emoção
+eufórica,1,Emoção
+monstra,1,Emoção
+impunidade,1,Emoção
+solitaria,1,Papel social
+presidiaria,1,Papel social
+espantada,1,Emoção
+humilhada,1,Emoção
+egoísta,1,Caráter
+sensualidade,1,Caráter
+diarista,1,Papel social
+excitadinha,1,Sexual
+desejo,1,Emoção
+rameira,1,Sexual
+loucaça,1,Emoção
+estuprada,1,Sexual
+injuriada,1,Emoção
+glamourosa,1,Aparência
+incentivadora,1,Caráter
+lutadora,1,Caráter
+rosada,1,Aparência
+positiva,1,Emoção
+super-bacana,1,Caráter
+calmaria,1,Emoção
+habilidosa,1,Caráter
+socialite,1,Papel social
+vingativa,1,Caráter
+frenética,1,Emoção
+tradicional,1,Caráter
+coxão,1,Aparência
+sertãs,1,Papel social
+delicinha,1,Aparência
+incomparável,1,Caráter
+perfeitinha,1,Aparência
+contaminada,1,Aparência
+mulher-homem,1,Sexual
+travesti,1,Sexual
+empinadinha,1,Aparência
+canditada,1,Papel social
+clássica,1,Aparência
+sambadeira,1,Neutro
+viciante,1,Emoção
+aeromoça,1,Papel social
+enxuta,1,Aparência
+calminha,1,Emoção
+enciumada,1,Emoção
+chorona,1,Emoção
+gandaia,1,Neutro
+bebê,1,Papel social
+purpurina,1,Neutro
+foliona,1,Emoção
+valentona,1,Caráter
+saborosa,1,Neutro
+assustada,1,Emoção
+inveja,1,Emoção
+meiguinha,1,Emoção
+magistrada,1,Papel social
+consciente,1,Caráter
+maliciosa,1,Caráter
+dominadora,1,Caráter
+afoita,1,Emoção
+incontrolável,1,Caráter
+acelerada,1,Emoção
+graduada,1,Papel social
+incomparavel,1,Emoção
+enlouquecida,1,Emoção
+zarôia,1,Aparência
+desquitada,1,Papel social
+confiança,1,Emoção
+conselheira,1,Papel social
+arrumadeira,1,Papel social
+cozinheira,1,Papel social
+delírio,1,Emoção
+colírio,1,Aparência
+açucarada,1,Neutro
+sublime,1,Emoção
+cuidadosa,1,Emoção
+bonequinha,1,Aparência
+desamor,1,Emoção
+roceira,1,Papel social
+pequenininha,1,Aparência
+campeira,1,Papel social
+desleal,1,Caráter
+barbada,1,Aparência
+riograndense,1,Papel social
+boêmia,1,Caráter
+rapariga,1,Sexual
+versátil,1,Caráter
+apagada,1,Aparência
+mestiça,1,Aparência
+ansiosa,1,Emoção
+amistosa,1,Emoção
+gostosona,1,Aparência
+pálida,1,Aparência
+louraça,1,Aparência
+presunçosa,1,Caráter
+fazendeira,1,Papel social
+calejada,1,Aparência
+fujona,1,Caráter
+noivinha,1,Papel social
+africana,1,Papel social
+contrariada,1,Emoção
+birrenta,1,Caráter
+certinha,1,Caráter
+privilegiada,1,Caráter
+conservada,1,Aparência
+chavosa,1,Aparência
+gatona,1,Aparência
+trança,1,Aparência
+promissora,1,Caráter
+pontual,1,Caráter
+didática,1,Caráter
+feiosa,1,Aparência
+elástica,1,Aparência
+eleita,1,Emoção
+esquelética,1,Aparência
+ocupada,1,Emoção
+crescidinha,1,Aparência
+paranormal,1,Emoção
+escrota,1,Caráter
+britânica,1,Papel social
+herdeira,1,Papel social
+gringa,1,Papel social
+trouxa,1,Emoção
+confortável,1,Emoção
+surtada,1,Emoção
+exagerada,1,Emoção
+periférica,1,Papel social
+capricorniana,1,Papel social
+escorpiana,1,Papel social
+valiosa,1,Emoção
+acuada,1,Emoção
+sensível,1,Emoção
+cegueira,1,Aparência
+violentada,1,Emoção
+cagueta,1,Caráter
+imatura,1,Emoção
+desempregada,1,Papel social
+mexicana,1,Papel social
+preocupada,1,Emoção
+penetrante,1,Neutro
+brabona,1,Emoção
+engraviou,1,Sexual
+distinta,1,Caráter
+resplendente,1,Emoção
+lésbica,1,Sexual
+miscigenação,1,Papel social
+ignorada,1,Emoção
+leve,1,Neutro
+distantes,1,Emoção
+lesada,1,Emoção
+torturada,1,Emoção
+velhinha,1,Aparência
+interrompida,1,Emoção
+cachos,1,Aparência
+dentista,1,Papel social
+comadre,1,Papel social
+rostinho,1,Aparência
+concubinato,1,Sexual
+urbana,1,Neutro
+grilada,1,Emoção
+comportada,1,Caráter
+desfalecida,1,Emoção
+responsável,1,Caráter
+paulista,1,Papel social
+molhadina,1,Sexual
+competente,1,Caráter
+despida,1,Aparência
+piradinha,1,Caráter
+conduzida,1,Neutro
+biônica,1,Neutro
+médica,1,Papel social
+dragão,1,Neutro
+facilitadora,1,Neutro
+acusada,1,Neutro
+inútil,1,Emoção
+apressada,1,Emoção
+dócil,1,Emoção
+sonhadora,1,Caráter
+adolescente,1,Papel social
+afamada,1,Emoção
+interesante,1,Caráter
+suadinha,1,Aparência
+barraqueira,1,Caráter
+extrovertida,1,Emoção
+falcão,1,Neutro
+notada,1,Emoção
+vítima,1,Emoção
+idiota,1,Caráter
+predadora,1,Caráter
+lady,1,Papel social
+ócio,1,Emoção
+surpreendente,1,Emoção
+xereca,1,Sexual
+revoltada,1,Emoção
+baronesa,1,Papel social
+fuleira,1,Caráter
+inviolável,1,Caráter
+insinuante,1,Aparência
+prodígio,1,Caráter
+particular,1,Neutro
+machucada,1,Emoção
+deputada,1,Papel social
+malcriada,1,Caráter
+atenciosa,1,Caráter
+corpão,1,Aparência
+iludida,1,Emoção
+caipirinha,1,Papel social
+gracinha,1,Aparência
+trabalhadeira,1,Caráter
+precipitada,1,Emoção
+arrasada,1,Emoção
+ótima,1,Caráter
+piveta,1,Papel social
+granfina,1,Papel social
+possuída,1,Emoção
+porreta,1,Caráter
+amassadinha,1,Aparência
+vitoriosa,1,Emoção
+formosura,1,Aparência
+facinha,1,Caráter
+safadinhas,1,Sexual
+incompleta,1,Neutro
+libanesa,1,Papel social
+mato-grossense,1,Papel social
+indiscreta,1,Caráter
+careca,1,Aparência
+bundão,1,Aparência
+crente,1,Papel social
+comportadinha,1,Emoção
+sinceridade,1,Emoção
+vidrada,1,Emoção
+datilógrafa,1,Papel social
+palestina,1,Papel social
+incrivel,1,Caráter
+bruta,1,Caráter
+saciada,1,Neutro
+rápida,1,Caráter
+economista,1,Papel social
+nutricionista,1,Papel social
+arquiteta,1,Papel social
+jornalista,1,Papel social
+proctologista,1,Papel social
+falecida,1,Neutro
+pantaneira,1,Papel social
+defensora,1,Emoção
+miúda,1,Aparência
+tranqüila,1,Emoção
+bagaceira,1,Emoção
+impiedosa,1,Caráter
+esguia,1,Aparência
+maneirona,1,Caráter
+imprevisivel,1,Caráter
+transformada,1,Emoção
+atleta,1,Papel social
+peladinha,1,Aparência
+descarada,1,Emoção
+internacional,1,Papel social
+desinibida,1,Caráter
+empregadinha,1,Papel social
+mini,1,Aparência
+díficil,1,Caráter
+periculosidade,1,Caráter
+xodó,1,Emoção
+exata,1,Emoção
+branquinha,1,Aparência
+docinha,1,Emoção
+estudiosa,1,Caráter
+empolgante,1,Emoção
+empoderada,1,Caráter
+tinhosa,1,Caráter
+reclusa,1,Emoção
+passiva,1,Caráter
+empregada,1,Papel social
+folgada,1,Caráter
+tostadinha,1,Aparência
+fervorosa,1,Emoção
+bonitona,1,Aparência
+caladinha,1,Emoção
+aérea,1,Emoção

@@ -1,0 +1,1001 @@
+ Adjetivo,Frequência,Categoria
+feliz,335,Emoção
+bom,299,Caráter
+pobre,189,Papel social
+forte,158,Aparência
+capaz,141,Caráter
+triste,124,Emoção
+louco,114,Caráter
+amor,114,Emoção
+diferente,114,Caráter
+casado,95,Papel social
+bonito,87,Aparência
+velho,83,Aparência
+feito,83,Neutro
+branco,79,Aparência
+fiel,78,Caráter
+grande,75,Aparência
+rico,75,Papel social
+novo,74,Aparência
+pai,66,Papel social
+sozinho,64,Emoção
+fraco,63,Aparência
+valente,63,Caráter
+livre,61,Caráter
+ruim,59,Caráter
+ligado,59,Neutro
+coração,57,Emoção
+igual,52,Neutro
+guerreiro,49,Caráter
+certo,49,Caráter
+cheio,48,Neutro
+presente,46,Caráter
+mano,46,Papel social
+fácil,46,Caráter
+amigo,45,Papel social
+filho,45,Papel social
+justo,45,Caráter
+mau,45,Caráter
+dono,44,Papel social
+vivo,44,Neutro
+perfeito,44,Caráter
+fogo,44,Neutro
+comum,43,Neutro
+maior,43,Neutro
+infeliz,41,Emoção
+lindo,41,Aparência
+legal,40,Caráter
+gostoso,40,Aparência
+melhor,39,Neutro
+distante,39,Emoção
+mané,39,Caráter
+zé,39,Neutro
+sério,38,Caráter
+direito,37,Caráter
+carente,37,Emoção
+doente,37,Neutro
+preto,36,Aparência
+real,36,Caráter
+poderoso,36,Caráter
+doido,35,Caráter
+importante,35,Caráter
+inocente,35,Caráter
+cruel,34,Caráter
+esperto,34,Caráter
+irmão,33,Papel social
+negro,33,Aparência
+maluco,33,Caráter
+cansado,32,Emoção
+contente,31,Emoção
+feio,31,Aparência
+perdido,30,Emoção
+solteiro,29,Papel social
+pequeno,29,Aparência
+cego,29,Neutro
+sonhador,29,Emoção
+apaixonado,29,Emoção
+sincero,28,Caráter
+digno,28,Caráter
+difícil,27,Caráter
+covarde,27,Caráter
+doutor,27,Papel social
+brasileiro,27,Papel social
+doce,26,Emoção
+pronto,26,Emoção
+vencedor,26,Caráter
+macho,26,Emoção
+bicho,26,Neutro
+congo,25,Emoção
+simples,25,Caráter
+bomba,25,Neutro
+cabra,25,Neutro
+passarinho,25,Neutro
+vida,24,Neutro
+eterno,24,Neutro
+preso,24,Papel social
+moleque,24,Caráter
+chamado,23,Neutro
+poeta,23,Papel social
+presidente,23,Papel social
+sol,23,Neutro
+trabalhador,23,Papel social
+santo,23,Papel social
+morto,23,Neutro
+bobo,23,Caráter
+dom,23,Emoção
+desejo,23,Emoção
+sangue,23,Neutro
+normal,22,Neutro
+dinheiro,22,Neutro
+caro,22,Caráter
+corpinho,22,Aparência
+perdão,21,Emoção
+foda,21,Aparência
+querido,21,Emoção
+humilde,20,Caráter
+maduro,20,Caráter
+leão,20,Neutro
+chato,20,Emoção
+inteligente,19,Caráter
+maravilhoso,19,Caráter
+problema,19,Caráter
+zumbi,19,Neutro
+companheiro,18,Papel social
+jovem,18,Papel social
+gente,18,Papel social
+honesto,18,Caráter
+criança,18,Papel social
+papai,18,Papel social
+bravo,17,Emoção
+verdadeiro,17,Caráter
+barbado,16,Aparência
+honrado,16,Caráter
+juiz,16,Papel social
+nato,16,Caráter
+ateu,16,Papel social
+ciumento,16,Emoção
+maloqueiro,16,Caráter
+malandro,16,Caráter
+campeão,16,Caráter
+puro,16,Caráter
+caboclo,16,Papel social
+sofredor,16,Emoção
+mudo,15,Neutro
+convidado,15,Papel social
+preciso,15,Caráter
+alto,15,Aparência
+lobo,15,Neutro
+pior,15,Caráter
+nú,14,Aparência
+samba,14,Neutro
+ausente,14,Emoção
+errado,14,Caráter
+faceiro,14,Emoção
+paixão,14,Emoção
+ladrão,14,Caráter
+estranho,14,Caráter
+saravá,14,Neutro
+igualzinho,13,Neutro
+moreno,13,Aparência
+passado,13,Neutro
+soberano,13,Caráter
+aranha,13,Neutro
+véio,13,Aparência
+zika,13,Aparência
+poder,13,Emoção
+sonho,13,Neutro
+vaqueiro,13,Papel social
+herói,13,Papel social
+vagabundo,13,Papel social
+enganado,13,Emoção
+especial,13,Emoção
+duro,13,Neutro
+frio,13,Neutro
+sublime,13,Caráter
+mestre,12,Papel social
+nobre,12,Caráter
+parado,12,Neutro
+amante,12,Papel social
+baixinho,12,Aparência
+magos,12,Papel social
+alegre,12,Emoção
+corno,12,Emoção
+luz,12,Neutro
+povo,12,Neutro
+bandido,12,Papel social
+gol,12,Neutro
+incrível,12,Caráter
+consciente,12,Caráter
+fino,12,Aparência
+mundo,12,Neutro
+boi,11,Neutro
+manso,11,Caráter
+bonitinho,11,Aparência
+maluquinho,11,Caráter
+sexy,11,Aparência
+quente,11,Neutro
+nervoso,11,Emoção
+cantador,11,Papel social
+inteiro,11,Neutro
+gigante,11,Aparência
+complicado,11,Caráter
+culpado,11,Emoção
+chapa,11,Neutro
+cachorro,11,Neutro
+amado,11,Emoção
+tropical,11,Neutro
+cuidado,11,Caráter
+sábio,11,Caráter
+paquerador,10,Caráter
+sentimental,10,Emoção
+prazer,10,Emoção
+ligeiro,10,Emoção
+caipira,10,Papel social
+moderno,10,Neutro
+bonzinho,10,Caráter
+sórdidos,10,Caráter
+patrão,10,Papel social
+sujo,10,Aparência
+negão,10,Aparência
+solitário,10,Emoção
+alegria,10,Emoção
+calado,10,Emoção
+solidão,10,Emoção
+chique,9,Aparência
+toque,9,Neutro
+neguinho,9,Aparência
+zangado,9,Emoção
+soldado,9,Papel social
+sanfoneiro,9,Papel social
+fuleiro,9,Caráter
+professor,9,Papel social
+genial,9,Emoção
+polvinho,9,Neutro
+ioiô,9,Neutro
+vulgar,9,Caráter
+frouxo,9,Caráter
+decente,9,Caráter
+falso,9,Caráter
+puto,9,Papel social
+bolado,9,Emoção
+medo,9,Emoção
+rap,9,Neutro
+neném,9,Papel social
+campeiro,9,Papel social
+preparado,8,Caráter
+rude,8,Caráter
+voador,8,Neutro
+força,8,Caráter
+único,8,Caráter
+inimigo,8,Papel social
+vazio,8,Neutro
+porra,8,Neutro
+ungido,8,Caráter
+violento,8,Caráter
+quieto,8,Emoção
+mulato,8,Aparência
+ciente,8,Caráter
+show,8,Caráter
+escolhido,8,Emoção
+padre,8,Papel social
+carinhoso,8,Caráter
+baleado,8,Neutro
+burro,8,Caráter
+disposto,8,Caráter
+impossível,8,Emoção
+matador,8,Caráter
+velhinho,8,Aparência
+operário,8,Papel social
+beijador,7,Caráter
+capitão,7,Papel social
+derrotado,7,Emoção
+boladão,7,Emoção
+paz,7,Emoção
+valentão,7,Caráter
+engraçado,7,Caráter
+caçador,7,Papel social
+satisfeito,7,Emoção
+fofinho,7,Emoção
+animado,7,Emoção
+destemido,7,Caráter
+firme,7,Caráter
+preocupado,7,Emoção
+traiçoeiro,7,Caráter
+doidão,7,Emoção
+parceiro,7,Emoção
+infiel,7,Caráter
+sensual,7,Aparência
+gaúcho,7,Papel social
+índio,7,Papel social
+fazendeiro,7,Papel social
+tonto,7,Emoção
+natural,7,Neutro
+maroto,7,Caráter
+canalha,7,Caráter
+confuso,7,Caráter
+top,7,Aparência
+traidor,7,Caráter
+virgem,7,Sexual
+modelo,6,Papel social
+grã-fino,6,Aparência
+pequenino,6,Aparência
+desamor,6,Emoção
+louro,6,Aparência
+ferido,6,Emoção
+delegado,6,Papel social
+sorridente,6,Emoção
+fã,6,Emoção
+dengo,6,Emoção
+solto,6,Neutro
+desempregado,6,Papel social
+preguiçoso,6,Caráter
+fera,6,Neutro
+pacato,6,Caráter
+funkeiro,6,Papel social
+goiano,6,Papel social
+estudioso,6,Caráter
+generoso,6,Caráter
+delicado,6,Caráter
+fenomenal,6,Caráter
+ideal,6,Caráter
+perigoso,6,Caráter
+aflito,6,Emoção
+safado,6,Caráter
+insensato,6,Caráter
+gordo,6,Aparência
+amargo,5,Emoção
+gay,5,Sexual
+ingrato,5,Caráter
+envolvente,5,Caráter
+artista,5,Papel social
+majestoso,5,Emoção
+barbudo,5,Aparência
+famoso,5,Emoção
+cidadão,5,Papel social
+lutador,5,Caráter
+pagodeiro,5,Papel social
+mensageiro,5,Papel social
+tras,5,Sexual
+teimoso,5,Caráter
+cantor,5,Papel social
+exigente,5,Caráter
+gentil,5,Caráter
+original,5,Caráter
+vovô,5,Papel social
+vacilão,5,Caráter
+protetor,5,Caráter
+escravo,5,Papel social
+sensacional,5,Emoção
+guardado,5,Neutro
+corpo,5,Aparência
+primo,5,Papel social
+destino,5,Caráter
+danado,5,Emoção
+coitado,5,Emoção
+subdesenvolvido,5,Neutro
+corajoso,5,Emoção
+guloso,5,Caráter
+suburbano,5,Papel social
+brabo,5,Emoção
+fatal,5,Caráter
+nordestino,5,Papel social
+desprezado,5,Emoção
+armado,5,Aparência
+palhaço,5,Papel social
+matuto,5,Caráter
+dominado,5,Emoção
+desiludido,5,Emoção
+precioso,5,Caráter
+prisioneiro,5,Papel social
+pescador,5,Papel social
+responsável,5,Caráter
+atento,5,Caráter
+obediente,5,Caráter
+belo,5,Aparência
+maldito,5,Caráter
+otário,5,Caráter
+suave,5,Emoção
+rebelde,5,Caráter
+alérgico,5,Neutro
+tolo,5,Emoção
+glorioso,5,Emoção
+malvado,5,Caráter
+latino-americano,5,Papel social
+vigário,5,Papel social
+doidinho,5,Emoção
+prefeito,5,Papel social
+latino,4,Papel social
+roceiro,4,Papel social
+lento,4,Caráter
+selvagem,4,Emoção
+bondoso,4,Caráter
+mendigo,4,Papel social
+correto,4,Caráter
+maldoso,4,Caráter
+réu,4,Papel social
+pilantra,4,Caráter
+egoísta,4,Caráter
+negrinho,4,Aparência
+irresistível,4,Emoção
+inseguro,4,Emoção
+incapaz,4,Caráter
+atraente,4,Aparência
+gatinho,4,Aparência
+escrito,4,Emoção
+indefeso,4,Caráter
+sossegado,4,Caráter
+atrasado,4,Emoção
+invisível,4,Neutro
+tio,4,Papel social
+roubado,4,Emoção
+freguês,4,Papel social
+drogado,4,Neutro
+imundo,4,Aparência
+ricos,4,Papel social
+cangaceiro,4,Papel social
+pesadão,4,Aparência
+terrível,4,Caráter
+maneiro,4,Emoção
+conde,4,Papel social
+pretinho,4,Aparência
+lembrado,4,Emoção
+vadio,4,Caráter
+baiano,4,Papel social
+descrente,4,Emoção
+sinistro,4,Caráter
+gato,4,Aparência
+compadre,4,Papel social
+barrigudo,4,Aparência
+profeta,4,Papel social
+extraordinário,4,Emoção
+baixo,4,Aparência
+japonês,4,Papel social
+machão,4,Emoção
+ocupado,4,Caráter
+namorador,4,Caráter
+falado,4,Neutro
+magro,4,Aparência
+indecente,4,Caráter
+cowboy,4,Papel social
+imperador,4,Papel social
+batizado,4,Papel social
+burguês,4,Emoção
+competente,4,Caráter
+públicos,4,Papel social
+macaco,4,Neutro
+induzido,4,Caráter
+humildade,4,Caráter
+mandado,4,Caráter
+seguro,4,Caráter
+indeciso,4,Emoção
+sedento,4,Emoção
+orgulhoso,4,Caráter
+frágil,4,Aparência
+surdo,4,Neutro
+revoltado,4,Emoção
+bebê,4,Papel social
+indiferente,4,Emoção
+irritado,4,Emoção
+desesperado,4,Emoção
+gauchinho,4,Papel social
+zen,4,Emoção
+careta,4,Caráter
+moral,4,Caráter
+cumpade,4,Papel social
+antigo,4,Emoção
+chorão,4,Emoção
+imperfeito,4,Aparência
+obrigado,4,Emoção
+afoito,4,Emoção
+invencível,3,Caráter
+misericordioso,3,Emoção
+esquisito,3,Emoção
+cabeludo,3,Aparência
+jornalista,3,Papel social
+torto,3,Aparência
+ereto,3,Aparência
+cínico,3,Caráter
+charminho,3,Emoção
+peão,3,Papel social
+primitivo,3,Neutro
+vigia,3,Papel social
+faminto,3,Emoção
+envergonhado,3,Emoção
+sedutor,3,Caráter
+fanfarrão,3,Caráter
+eleito,3,Papel social
+bruto,3,Caráter
+incomparável,3,Caráter
+tímido,3,Emoção
+brincalhão,3,Caráter
+complexo,3,Caráter
+descontrolados,3,Caráter
+menor,3,Neutro
+liso,3,Neutro
+cafajeste,3,Caráter
+curado,3,Emoção
+desordeiro,3,Emoção
+xucro,3,Caráter
+dengoso,3,Emoção
+chave,3,Aparência
+partideiro,3,Papel social
+inspirado,3,Emoção
+hospitaleiro,3,Caráter
+protegido,3,Neutro
+feioso,3,Aparência
+amarelo,3,Neutro
+carioca,3,Papel social
+tutor,3,Papel social
+cobrado,3,Neutro
+hepático,3,Neutro
+descartável,3,Neutro
+podre,3,Neutro
+dependente,3,Caráter
+bacana,3,Caráter
+travesso,3,Caráter
+anjo,3,Neutro
+durão,3,Caráter
+romântico,3,Emoção
+crente,3,Papel social
+popular,3,Papel social
+ferrado,3,Emoção
+sentimento,3,Emoção
+serio,3,Caráter
+carpinteiro,3,Papel social
+pleno,3,Emoção
+soberbo,3,Caráter
+racional,3,Caráter
+magrelo,3,Aparência
+artesão,3,Papel social
+tenso,3,Emoção
+embaçado,3,Emoção
+governador,3,Papel social
+educado,3,Caráter
+corintiano,3,Papel social
+prodígio,3,Caráter
+prostituto,3,Sexual
+boiadeiro,3,Papel social
+firmeza,3,Caráter
+acabado,3,Aparência
+espaçoso,3,Neutro
+esquecido,3,Emoção
+independente,3,Caráter
+pássaro,3,Papel social
+castigado,3,Emoção
+sádico,3,Caráter
+cheiroso,3,Emoção
+cordial,3,Caráter
+assustado,3,Emoção
+suspeito,3,Caráter
+iludido,3,Emoção
+irreal,3,Emoção
+superman,3,Neutro
+elegante,3,Aparência
+calmo,3,Emoção
+alienígena,3,Neutro
+mulherengo,3,Caráter
+mozão,3,Emoção
+aventureiro,3,Caráter
+julgado,3,Emoção
+irresponsável,3,Caráter
+tirano,3,Caráter
+abandonado,3,Emoção
+experiente,3,Caráter
+levado,3,Caráter
+maconheiro,3,Papel social
+pivete,3,Papel social
+violeiro,3,Papel social
+majestade,3,Papel social
+mineiro,3,Papel social
+pernambucano,3,Papel social
+franzino,3,Aparência
+meritíssimo,3,Papel social
+introvertido,3,Emoção
+careca,3,Aparência
+descalço,3,Aparência
+camarada,3,Caráter
+raro,3,Emoção
+tranquilo,3,Caráter
+gordinho,3,Aparência
+garanhão,3,Aparência
+fadado,3,Emoção
+perdoado,3,Emoção
+agressivo,3,Emoção
+sertanejo,2,Papel social
+magoado,2,Emoção
+ministro,2,Papel social
+registrado,2,Neutro
+vesgo,2,Aparência
+venenoso,2,Caráter
+bandoleiro,2,Caráter
+ingênuo,2,Caráter
+pistoleiro,2,Papel social
+sapateiro,2,Papel social
+abençoado,2,Emoção
+guri,2,Papel social
+culto,2,Caráter
+surpreendente,2,Caráter
+sutil,2,Emoção
+ator,2,Papel social
+maquiavélico,2,Caráter
+incomodado,2,Emoção
+chifrudo,2,Emoção
+divertido,2,Caráter
+medroso,2,Caráter
+candidato,2,Papel social
+manjado,2,Emoção
+temperamental,2,Caráter
+safadinho,2,Sexual
+blindado,2,Emoção
+apressado,2,Emoção
+marinheiro,2,Papel social
+bonitão,2,Aparência
+mimado,2,Emoção
+deprimido,2,Emoção
+tagarela,2,Caráter
+solidário,2,Caráter
+amoroso,2,Emoção
+vaidoso,2,Aparência
+marginal,2,Papel social
+hipócrita,2,Caráter
+aprovado,2,Neutro
+baladeiro,2,Caráter
+útil,2,Caráter
+bêbado,2,Neutro
+fantástico,2,Emoção
+cortês,2,Caráter
+goleiro,2,Papel social
+sagaz,2,Caráter
+bastardo,2,Papel social
+vil,2,Aparência
+porreta,2,Caráter
+republicano,2,Papel social
+batuqueiro,2,Papel social
+truta,2,Papel social
+atoa,2,Caráter
+insistente,2,Caráter
+sexagenário,2,Papel social
+brilhante,2,Emoção
+profundo,2,Papel social
+docinho,2,Emoção
+idosos,2,Papel social
+chatinho,2,Caráter
+excitante,2,Caráter
+perseguido,2,Emoção
+ramelão,2,Caráter
+descendente,2,Papel social
+invocado,2,Emoção
+leal,2,Caráter
+civilizado,2,Caráter
+abusado,2,Caráter
+consolador,2,Emoção
+trapalhão,2,Caráter
+paciente,2,Caráter
+treinado,2,Caráter
+misterioso,2,Caráter
+maniaco,2,Caráter
+americano,2,Papel social
+mauricinho,2,Papel social
+africano,2,Papel social
+grosseiro,2,Caráter
+servente,2,Papel social
+marrento,2,Caráter
+feroz,2,Caráter
+grosso,2,Caráter
+delinquente,2,Papel social
+suficiente,2,Neutro
+criminoso,2,Caráter
+titular,2,Neutro
+imortal,2,Neutro
+empresário,2,Papel social
+pegador,2,Sexual
+simpático,2,Caráter
+fodão,2,Caráter
+gago,2,Aparência
+advogado,2,Papel social
+saliente,2,Aparência
+insano,2,Caráter
+bipolar,2,Emoção
+avisado,2,Emoção
+assassino,2,Caráter
+irracional,2,Caráter
+chateado,2,Emoção
+insensível,2,Emoção
+aposentado,2,Papel social
+perplexos,2,Emoção
+impertinente,2,Caráter
+corrompido,2,Caráter
+grandão,2,Aparência
+capelão,2,Papel social
+quentinho,2,Neutro
+exemplar,2,Caráter
+peludo,2,Aparência
+mentiroso,2,Caráter
+flamenguista,2,Papel social
+gostosinho,2,Aparência
+facção,2,Caráter
+invejoso,2,Caráter
+caboclinho,2,Papel social
+desigual,2,Neutro
+orientado,2,Caráter
+depenado,2,Emoção
+anormal,2,Neutro
+fascinante,2,Caráter
+cuzão,2,Caráter
+motoqueiro,2,Papel social
+infalíveis,2,Emoção
+galante,2,Caráter
+abatido,2,Emoção
+príncipe,2,Papel social
+conhecido,2,Caráter
+fortão,2,Aparência
+indignado,2,Emoção
+condenado,2,Neutro
+agonizante,2,Emoção
+rostinho,2,Aparência
+especializado,2,Neutro
+deputado,2,Papel social
+escuro,2,Aparência
+adulto,2,Papel social
+lindão,2,Aparência
+caminhoneiro,2,Papel social
+inalcansável,2,Emoção
+brega,2,Aparência
+merecedor,2,Caráter
+bicha,2,Sexual
+admirado,2,Emoção
+interiorano,2,Papel social
+sacana,2,Caráter
+conveniente,2,Caráter
+veloz,2,Aparência
+besta,2,Emoção
+desnorteado,2,Emoção
+trapaceiro,2,Caráter
+chocado,2,Emoção
+autor,2,Papel social
+traído,2,Caráter
+judeu,2,Papel social
+sereno,2,Emoção
+cupido,2,Caráter
+granfino,2,Papel social
+estourado,2,Emoção
+indescritível,2,Emoção
+furioso,2,Emoção
+radical,2,Caráter
+fandango,2,Papel social
+médico,2,Papel social
+grandinho,2,Aparência
+órfão,2,Papel social
+sorteiro,1,Papel social
+falido,1,Caráter
+respeitável,1,Caráter
+farto,1,Caráter
+sonolento,1,Emoção
+medíocre,1,Emoção
+pirata,1,Papel social
+desconfiado,1,Caráter
+noiado,1,Caráter
+pantaneiro,1,Papel social
+difunto,1,Neutro
+envolvido,1,Emoção
+insuportável,1,Emoção
+submisso,1,Emoção
+incerto,1,Caráter
+escroto,1,Caráter
+fantastico,1,Emoção
+patente,1,Papel social
+combatente,1,Papel social
+convocado,1,Papel social
+necessário,1,Emoção
+calculista,1,Caráter
+viajante,1,Caráter
+espantalho,1,Aparência
+ex-ladrão,1,Papel social
+guardião,1,Papel social
+investidor,1,Papel social
+hilário,1,Emoção
+sobrinho,1,Papel social
+louquinho,1,Emoção
+manco,1,Aparência
+lúcido,1,Caráter
+determinado,1,Caráter
+admirável,1,Caráter
+humorista,1,Caráter
+ouvinte,1,Caráter
+glorificado,1,Emoção
+chavão,1,Aparência
+metido,1,Caráter
+perverso,1,Caráter
+leproso,1,Aparência
+doentio,1,Caráter
+inconstancia,1,Emoção
+cumpadre,1,Papel social
+bebinho,1,Aparência
+picareta,1,Caráter
+enfermo,1,Neutro
+malandreco,1,Caráter
+amaldiçoado,1,Emoção
+carrapato,1,Neutro
+metalúrgico,1,Papel social
+decepcionado,1,Emoção
+profano,1,Caráter
+apaixonadinho,1,Emoção
+inesquecível,1,Emoção
+cheirosão,1,Aparência
+responsáveis,1,Caráter
+apertadinho,1,Aparência
+estuprador,1,Sexual
+tendência,1,Emoção
+despeitado,1,Neutro
+dodói,1,Neutro
+cavaleiro,1,Papel social
+excelência,1,Papel social
+condutor,1,Papel social
+tesão,1,Sexual
+incompetente,1,Caráter
+jovial,1,Aparência
+sergipano,1,Papel social
+argentino,1,Papel social
+frustrado,1,Emoção
+arrogante,1,Caráter
+rapidinho,1,Aparência
+cachorrão,1,Neutro
+querubim,1,Neutro
+ameaçado,1,Emoção
+inalcançável,1,Caráter
+desembestado,1,Emoção
+líder,1,Papel social
+abraçadinho,1,Emoção
+havaiano,1,Papel social
+conselheiro,1,Papel social
+embriagado,1,Emoção
+indisciplinado,1,Caráter
+catequista,1,Papel social
+interessado,1,Caráter
+policial,1,Papel social
+guitarrista,1,Papel social
+europeu,1,Papel social
+ousado,1,Caráter
+assentado,1,Papel social
+imprevisível,1,Emoção
+desleal,1,Caráter
+incisivo,1,Caráter
+festeiro,1,Caráter
+pretão,1,Aparência
+humilhado,1,Emoção
+mandrakinho,1,Aparência
+sistemático,1,Caráter
+colono,1,Papel social
+aleijadinho,1,Aparência
+eficiente,1,Caráter
+bebum,1,Caráter
+perversidade,1,Caráter
+arquiteto,1,Papel social
+desengonçado,1,Aparência
+motorista,1,Papel social
+demônio,1,Neutro
+gênio,1,Caráter
+adúltero,1,Caráter
+viúvo,1,Papel social
+ridículo,1,Caráter
+brutal,1,Emoção
+ultrapassado,1,Caráter
+magnífico,1,Emoção
+responsavel,1,Caráter
+ganância,1,Emoção
+considerado,1,Caráter
+sensacionalista,1,Papel social
+presidiário,1,Papel social
+precoce,1,Emoção
+paraguaio,1,Papel social
+irrelevante,1,Caráter
+malicioso,1,Caráter
+bigodudo,1,Aparência
+depressivo,1,Emoção
+quilombola,1,Papel social
+explorador,1,Caráter
+maestro,1,Papel social
+astronauta,1,Papel social
+lesado,1,Emoção
+galego,1,Aparência
+machista,1,Sexual
+risonho,1,Caráter
+perturbado,1,Caráter
+cientista,1,Papel social
+conquistador,1,Caráter
+enraivecido,1,Emoção
+viril,1,Aparência
+narrador,1,Papel social
+confiante,1,Emoção
+político,1,Papel social
+general,1,Papel social
+racista,1,Caráter
+corrupto,1,Caráter
+fútil,1,Caráter
+baitola,1,Sexual
+avô,1,Papel social
+dentista,1,Papel social
+banqueiro,1,Papel social
+brocha,1,Sexual
+grandalhão,1,Aparência
+paralítico,1,Aparência
+meretíssimo,1,Papel social
+mariquinha,1,Sexual
+essencial,1,Emoção
+democrata,1,Papel social
+sadio,1,Aparência
+árabe,1,Papel social
+pálido,1,Aparência
+paralisado,1,Emoção
+capataz,1,Papel social
+inconsequente,1,Caráter
+cristão,1,Papel social
+dançador,1,Papel social
+emotivo,1,Emoção
+possessivo,1,Caráter
+gatão,1,Aparência
+distraido,1,Caráter
+empolgado,1,Emoção
+imbecil,1,Caráter
+benevolente,1,Caráter
+desbravador,1,Papel social
+mortal,1,Neutro
+imoral,1,Caráter
+sofisticado,1,Aparência
+psicanalista,1,Papel social
+irritante,1,Caráter
+nojento,1,Caráter
+celebridade,1,Papel social
+indefinido,1,Caráter
+saciado,1,Emoção
+avacalham,1,Emoção
+inadequado,1,Caráter
+genioso,1,Caráter
+pelado,1,Aparência
+seduzido,1,Emoção
+ensaboado,1,Emoção
+dificil,1,Caráter
+pop-star,1,Papel social
+tocador,1,Papel social
+porteiro,1,Papel social
+discreto,1,Caráter
+incompreensível,1,Caráter
+raso,1,Caráter
+eletricista,1,Papel social
+bombeiro,1,Papel social
+fantasma,1,Neutro
+grato,1,Emoção
+gado,1,Neutro
+imprestável,1,Caráter
+cuidadoso,1,Caráter
+especialista,1,Papel social
+bagunçado,1,Aparência
+explosivo,1,Emoção
+constante,1,Caráter
+bissexual,1,Sexual
+esquisitos,1,Caráter
+previsível,1,Caráter
+caucasiano,1,Aparência
+grudados,1,Caráter
+bundão,1,Caráter
+distande,1,Emoção
+fitness,1,Aparência
+deslumbrado,1,Emoção
+bigno,1,Emoção
+piedoso,1,Caráter
+enxuto,1,Aparência
+sexo,1,Sexual
+pretensioso,1,Caráter
+vigilante,1,Caráter
+indurável,1,Emoção
+assaltado,1,Emoção
+desonesto,1,Caráter
+incomum,1,Neutro
+indomável,1,Caráter
+calmaria,1,Emoção
+enigmático,1,Caráter
+mijão,1,Emoção
+acolhido,1,Emoção
+repórter,1,Papel social
+bilíngue,1,Papel social
+cibernético,1,Neutro
+neurótico,1,Emoção
+trombadinha,1,Caráter
+plebeu,1,Papel social
+mesquinho,1,Caráter
+radialista,1,Papel social
+banguela,1,Aparência
+beijoqueiro,1,Caráter
+português,1,Papel social
+lunático,1,Neutro
+tristonho,1,Emoção
+sambista,1,Papel social
+bombado,1,Aparência
+impressionante,1,Caráter
+musculoso,1,Aparência
+desobediente,1,Caráter
+desligado,1,Emoção
+nervozinho,1,Emoção
+encantador,1,Emoção
+quietinho,1,Caráter
+descarado,1,Caráter
