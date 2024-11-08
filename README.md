@@ -22,6 +22,11 @@ Você pode fazer o download de todos os corpus utilizados, incluindo o corpus un
 
 [Link Google Drive](https://drive.google.com/drive/folders/1BdBsE5gqEVaQ7ANuiuOilYMmjX320Okv?usp=sharing)
 
+[Link do Dataset Unificado - Kaggle](https://www.kaggle.com/datasets/vitoriafirmino/brazilian-lyrics)
+
+[Link do MusicSpotsBr - Kaggle 
+](https://www.kaggle.com/datasets/vitoriafirmino/musicspotsbr-popular-brazilian-lyrics-on-spotify)
+
 ### 2. Pasta Análise de Frases Predicativas
 - **analise-frases-predicativas.ipynb**: Código para capturar frases predicativas usando expressões regulares.
 - **Resultados**: [Subpasta com os resultados das análises.](https://drive.google.com/drive/folders/1z9uPvH2deVN4XYr1UUd300cnhiqM522b?usp=sharing)
